@@ -1,4 +1,4 @@
-package summer
+package modtest
 
 type Summer interface {
 	Sum(x, y int) int
